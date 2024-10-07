@@ -1,0 +1,15 @@
+{
+  "name": "login_automation",
+  "version": "1.0.0",
+  "description": "Testy logowania z wykorzystaniem Cypress i Page Object Pattern",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^12.0.0"
+  },
+  "author": "Twoje Imię",
+  "license": "ISC"
+}
